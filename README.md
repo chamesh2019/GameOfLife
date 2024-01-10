@@ -31,13 +31,14 @@ This implementation uses TypeScript for the logic, HTML for the presentation, an
    npm install
    ```
 
-3. Run the game:
+3. Build the project:
 
    ```bash
-   npm start
+   npm run build
    ```
 
 ## Usage
 
-1. Open the browser and navigate to http://localhost:3000
-2. Press Space to start and stop the game
+1. Open the dist/index.html file in your browser.
+2. Press Space to start the game.
+3. Press Space to pause the game.

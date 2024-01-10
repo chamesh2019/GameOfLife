@@ -23,3 +23,15 @@ document.addEventListener("keydown", (event) => {
     }
     
 })
+
+// add event listener to restart with r
+
+document.addEventListener("keydown", (event) => {
+    if (event.code === "KeyR") {
+        clearInterval(interval_code)
+        started = false
+        document.body.innerHTML = ""
+        grid = generateGrid(50, 50)
+        document.body.appendChild(grid)
+    }
+})
