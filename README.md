@@ -2,14 +2,6 @@
 
 A simple implementation of Conway's Game of Life using TypeScript, HTML, and Sass.
 
-## Table of Contents
-
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Description
 
 Conway's Game of Life is a cellular automaton devised by the mathematician John Conway. The game consists of a grid of cells, each of which can be in one of two states: alive or dead. The cells evolve over generations based on a set of rules.
