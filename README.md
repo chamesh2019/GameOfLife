@@ -16,7 +16,7 @@ Conway's Game of Life is a cellular automaton devised by the mathematician John 
 
 This implementation uses TypeScript for the logic, HTML for the presentation, and Sass for styling.
 
-## Installation
+## Setup - If you want to Edit
 
 1. Clone the repository:
 
@@ -40,5 +40,5 @@ This implementation uses TypeScript for the logic, HTML for the presentation, an
 ## Usage
 
 1. Open the dist/index.html file in your browser.
-2. Press Space to start the game.
-3. Press Space to pause the game.
+2. Press Space to start/pause the game.
+3. Press R to restart the game.
